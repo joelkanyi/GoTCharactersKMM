@@ -12,3 +12,6 @@ A sample app that shows how to use Kotlin Multiplatform Mobile (KMM) to share co
 
 #### Android
 <img src="art/android-characters.png" width="250"/> <img src="art/android-details.png" width="250"/>
+
+## Resources
+* [Compose Multiplatform iOS+Android Application project template](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
