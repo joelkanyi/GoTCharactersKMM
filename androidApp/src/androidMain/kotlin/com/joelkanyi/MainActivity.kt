@@ -1,4 +1,4 @@
-package com.myapplication
+package com.joelkanyi
 
 import MainView
 import android.os.Bundle
