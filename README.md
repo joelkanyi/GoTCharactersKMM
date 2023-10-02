@@ -1,5 +1,5 @@
-# GoTCharactersKMM
-A sample app that shows how to use Kotlin Multiplatform Mobile (KMM) to share code between Android and iOS. It uses [Thrones API](https://thronesapi.com/api/) to fetch characters from Game of Thrones.
+# GoTCharactersKMP
+A sample app that shows how to use Kotlin Multiplatform (KMP) to share code between Android and iOS. It uses [Thrones API](https://thronesapi.com/api/) to fetch characters from Game of Thrones.
 
 ## Tech Stack.
 - [Voyager](https://github.com/adrielcafe/voyager) - A multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.
